@@ -8,7 +8,7 @@ I created this repository as a record of my first steps into computational struc
 
 ## What I Completed
 
-I worked through the lab's introductory PyMOL and Biotite notebook, focusing on:
+I worked through the lab's introductory PyMOL, Biotite, and Alphafold notebooks, focusing on:
 
 * Protein structure visualization in **PyMOL**
 * Programmatic structural analysis with **Biotite**
@@ -16,9 +16,10 @@ I worked through the lab's introductory PyMOL and Biotite notebook, focusing on:
 * Working with three-dimensional molecular representations
 * Becoming comfortable navigating protein structures computationally
 
-The completed notebook is available here:
+The completed notebooks are available here:
 
 [`Exercise1_Play_with_pymol_and_biotite.ipynb`](./Exercise1_Play_with_pymol_and_biotite.ipynb)
+[`Excercise2_use_AlphaFold3-type_predictors_to_predict_enzyme.ipynb`](./Excercise2_use_AlphaFold3-type_predictors_to_predict_enzyme.ipynb)
 
 ## Why I Did This
 
