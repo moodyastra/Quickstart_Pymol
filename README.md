@@ -45,6 +45,7 @@ My academic interests increasingly center on applying computation to biological 
 
 ```text
 Quickstart_Pymol/
+├── Excercise2_use_AlphaFold3-type_predictors_to_predict_enzyme.ipynb
 ├── Exercise1_Play_with_pymol_and_biotite.ipynb
 ├── Local_Sequencing_Notes.pdf
 ├── MSA_Notes.pdf
