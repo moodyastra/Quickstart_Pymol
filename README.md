@@ -32,7 +32,7 @@ I am currently a student at **Carnegie Vanguard High School in Houston, Texas**,
 A few highlights of my background:
 
 * **4.0 unweighted / 4.77 weighted GPA**
-* Coursework including **AP Biology (scored a 5), AP Computer Science A (scored a 5), and Post-Calculus (2026-27)**
+* Coursework including **AP Biology (scored a 5), AP Computer Science A (scored a 5), AP Seminar (scored a 5), and Post-Calculus (2026-27)**
 * **Java programming** experience
 * **3x Captain**: Varsity Track & Field, Varsity Cross Country, and Ultimate Frisbee 
 * **2× Regional Cross Country qualifier**
