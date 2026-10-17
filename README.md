@@ -4,7 +4,7 @@ Hi,
 
 This repository documents my completion of Dr. Linna An's quick start guide.
 
-I created this repository as a record of my first steps into computational structural biology and protein design, and as preparation for pursuing research in the An Lab.
+I created this repository as a record of my first steps into computational structural biology and protein design, and as preparation for pursuing research.
 
 ## What I Completed
 
@@ -24,8 +24,6 @@ The completed notebooks are available here:
 ## Why I Did This
 
 I am a high school student interested in the intersection of **biology, computation, and machine learning**, particularly their applications to protein design.
-
-Your work on functional protein design and protein–ligand interactions introduced me to an area where computational methods can directly contribute to biological engineering. Rather than only reading about the field, I wanted to start developing the foundational skills needed to work with protein structures myself.
 
 ## Background
 
